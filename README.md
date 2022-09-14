@@ -1,18 +1,18 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />, I'm Pawan</h1>
+         width="45" />, I'm Nitin</h1>
          <h4 align= "center">A 3rd-year student pursuing BTech in Computer science studies with a specialization of AIML, from CGC Jhanjeri. </h4>
 <!-- intro hello world -->
 <h1 align="center">
- <img src="Webp/new.webp" width="40px"> 𝐇𝐄𝐋𝐋𝐎 𝐖𝐎𝐑𝐋𝐃! <img src="Webp/new.webp" width="40px">
-<img src= "Webp/pawan.webp" height="270px" width="370px" align="right">
+ <img src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="40px"> 𝐇𝐄𝐋𝐋𝐎 𝐖𝐎𝐑𝐋𝐃! <img src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="40px">
+<img src= "https://i.pinimg.com/originals/08/fb/61/08fb615b1a389de5bc0410136d75f50d.gif" height="270px" width="370px" align="right">
 </h1>
 <br>
 
 - 🤖 * DATA SCIENCE *
 - 🚀 *Currently working on PYTHON*
-- 👨‍💻 *Ask me about Web Scraping*
+- 👨‍💻 *Ask me about Machine Learning*
 - 🤝 *Looking forward to collaborate on Open source projects*
 - 💬 *Feel free to reach me out for any help*
 - ⚡ *Fun fact #1 : Human brain is so trained to disagree the fact that it's just a program in an artificial simulation*
@@ -27,7 +27,7 @@
   <img height="150" width="150" src="Webp/right (1).png">
 </p>
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Pawan-Bhatt&column=7&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/Pawan-Bhatt)
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Pawan-Bhatt&column=7&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/nitin-handa)
 <br>
 
 <hr>
@@ -136,4 +136,4 @@
   
   ![Visitor Count](https://profile-counter.glitch.me/{Pawan-Bhatt}/count.svg)
   
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 the 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+
