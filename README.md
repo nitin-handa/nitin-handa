@@ -7,7 +7,6 @@
   <a href="mailto:nitinhanda001@gmail.com">📧 Email</a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin-handa&label=Profile%20views&color=0e75b6&style=flat" alt="nitin-handa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitin-handa" alt="nitin-handa" /></a> </p>
 
